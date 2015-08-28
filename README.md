@@ -1,2 +1,3 @@
 # 2DO
-To Do list built in Rails
+This is a basic Todo list built with [Rail] (http://rubyonrails.org/).
+
